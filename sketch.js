@@ -62,3 +62,5 @@ function draw(){
     bird.display();
     platform.display();
 }
+
+// Tuved made it :)
